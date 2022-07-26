@@ -23,7 +23,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "PF_RamondoNatalia\node_modules\bootstrap\dist\css"
             ],
             "scripts": []
           },
